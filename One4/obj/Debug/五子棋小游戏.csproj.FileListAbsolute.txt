@@ -1,0 +1,10 @@
+D:\立讯机器人\Vision pro 项目\One4\bin\Debug\One4.exe.config
+D:\立讯机器人\Vision pro 项目\One4\bin\Debug\One4.exe
+D:\立讯机器人\Vision pro 项目\One4\bin\Debug\One4.pdb
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\五子棋小游戏.csproj.AssemblyReference.cache
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\One4.Form1.resources
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\One4.Properties.Resources.resources
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\五子棋小游戏.csproj.GenerateResource.cache
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\五子棋小游戏.csproj.CoreCompileInputs.cache
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\One4.exe
+D:\立讯机器人\Vision pro 项目\One4\obj\Debug\One4.pdb
